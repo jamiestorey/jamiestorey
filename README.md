@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on creating projects for my portfolio
+- 🔭 I’m currently working on [A betting website](https://github.com/jamiestorey/BroccoliBet.NodeApp)
 - 🌱 I’m currently learning Google Cloud
 
 <!--
