@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [A betting website](https://github.com/jamiestorey/BroccoliBet.NodeApp)
-- 🌱 I’m currently learning Google Cloud
+- 🌱 I’m currently studying for the AWS Cloud Practitioner exam
+- 🖊 I write daily updates about what I'm working on at https://jamiestorey.dev/ since December 1st 2021
 
 <!--
 **jamiestorey/jamiestorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
