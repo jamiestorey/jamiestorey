@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [A betting website](https://github.com/jamiestorey/BroccoliBet.NodeApp)
-- 🌱 I’m currently studying for the AWS Cloud Practitioner exam
+<!-- - 🌱 I’m currently studying for the AWS Cloud Practitioner exam -->
 - 🖊 I write daily updates about what I'm working on at https://jamiestorey.dev/ since December 1st 2021
 
 <!--
